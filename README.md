@@ -8,9 +8,11 @@ Welcome to my GitHub profile! I'm a passionate DevOps enthusiast and a Linux Sys
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I’m currently focused on:
 
-**Streamlining CI/CD Pipelines:** Automating deployment processes for enhanced efficiency and reliability.
+**Linux Server Optimization:** Managing and securing servers to ensure high performance and uptime.
 
-**Cloud and Server Management:** Optimizing infrastructure performance and ensuring scalability.
+**Ansible Automation:** Streamlining IT infrastructure tasks through robust automation scripts.
+
+**Containerized Deployments:** Utilizing Docker to deploy and manage scalable applications.
 
 **🌱Learning Journey**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
