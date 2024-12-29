@@ -28,7 +28,7 @@ I’m diving deeper into:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I’d love to collaborate on:
 
-**DevOps Projects:** Anything related to CI/CD, cloud infrastructure, and automation.
+**DevOps Projects:** Anything related to cloud infrastructure, and automation.
 
 **Linux Administration:** Working on secure, scalable, and optimized system management solutions.
 
